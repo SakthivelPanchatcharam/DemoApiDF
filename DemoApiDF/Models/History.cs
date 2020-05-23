@@ -7,5 +7,6 @@ namespace DemoApiDF.Models
 {
     public class History
     {
+        public int MyProperty { get; set; }
     }
 }
